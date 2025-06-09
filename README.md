@@ -52,11 +52,11 @@ The system operates on video inputs, detects clothing/accessories, matches them 
     }
   ]
 }
-
-## 📁 Prerequisites
+```
+## Prerequisites
 
 Ensure the following files and folders are ready by cloning the repository:
-ubmission/
+submission/
 ├── catalog.csv 
 ├── videos/ 
 ├── run_pipeline.py 
@@ -65,15 +65,16 @@ ubmission/
 
 ---
 
-## 🐍 Step 1: Setup Virtual Environment
-
+## Step 1: Setup Virtual Environment
+```bash
 python -m venv venv
 source venv/bin/activate      # Linux/macOS
 venv\\Scripts\\activate         # Windows
-
+```
 📦 Step 2: Install Dependencies
+```bash
 pip install -r requirements.txt
-
+```
 🎥 Step 3: Prepare Input Files
 Place your short fashion videos in /videos
 
