@@ -1,0 +1,12 @@
+requirements = """
+fastapi
+transformers
+sentence-transformers
+opencv-python-headless
+Pillow
+faiss-cpu
+tqdm
+numpy
+pandas
+"""
+

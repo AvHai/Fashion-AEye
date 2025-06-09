@@ -1,0 +1,40 @@
+{
+  "video_id": "2025-05-28_13-42-32_UTC",
+  "vibes": [
+    "Clean Girl",
+    "Cottagecore",
+    "Boho"
+  ],
+  "products": [
+    {
+      "type": "Shorts",
+      "match_type": "similar",
+      "matched_product_id": 15333,
+      "confidence": 0.791
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 15318,
+      "confidence": 0.821
+    },
+    {
+      "type": "Shorts",
+      "match_type": "similar",
+      "matched_product_id": 42075,
+      "confidence": 0.829
+    },
+    {
+      "type": "Dress",
+      "match_type": "similar",
+      "matched_product_id": 17285,
+      "confidence": 0.757
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 16135,
+      "confidence": 0.769
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "video_id": "2025-05-31_14-01-37_UTC",
+  "vibes": [
+    "Cottagecore",
+    "Coquette",
+    "Clean Girl"
+  ],
+  "products": [
+    {
+      "type": "Dress",
+      "match_type": "similar",
+      "matched_product_id": 42032,
+      "confidence": 0.848
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 118454,
+      "confidence": 0.851
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 16748,
+      "confidence": 0.872
+    },
+    {
+      "type": "Top",
+      "match_type": "similar",
+      "matched_product_id": 15352,
+      "confidence": 0.813
+    },
+    {
+      "type": "Dress",
+      "match_type": "similar",
+      "matched_product_id": 17229,
+      "confidence": 0.829
+    },
+    {
+      "type": "Top",
+      "match_type": "similar",
+      "matched_product_id": 17084,
+      "confidence": 0.824
+    },
+    {
+      "type": "Shorts",
+      "match_type": "similar",
+      "matched_product_id": 42075,
+      "confidence": 0.754
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 16468,
+      "confidence": 0.761
+    },
+    {
+      "type": "Jacket",
+      "match_type": "similar",
+      "matched_product_id": 16500,
+      "confidence": 0.81
+    },
+    {
+      "type": "Dress",
+      "match_type": "similar",
+      "matched_product_id": 14999,
+      "confidence": 0.793
+    },
+    {
+      "type": "Top",
+      "match_type": "similar",
+      "matched_product_id": 97557,
+      "confidence": 0.803
+    },
+    {
+      "type": "Top",
+      "match_type": "similar",
+      "matched_product_id": 17088,
+      "confidence": 0.817
+    },
+    {
+      "type": "Dress",
+      "match_type": "similar",
+      "matched_product_id": 118459,
+      "confidence": 0.869
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 16413,
+      "confidence": 0.815
+    },
+    {
+      "type": "Skirt",
+      "match_type": "similar",
+      "matched_product_id": 16978,
+      "confidence": 0.842
+    }
+  ]
+}

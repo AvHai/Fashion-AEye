@@ -1,0 +1,22 @@
+{
+  "video_id": "2025-05-27_13-46-16_UTC",
+  "vibes": [
+    "Cottagecore",
+    "Boho",
+    "Party Glam"
+  ],
+  "products": [
+    {
+      "type": "Top",
+      "match_type": "similar",
+      "matched_product_id": 15105,
+      "confidence": 0.793
+    },
+    {
+      "type": "Shirt",
+      "match_type": "similar",
+      "matched_product_id": 15581,
+      "confidence": 0.812
+    }
+  ]
+}
