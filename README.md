@@ -53,4 +53,40 @@ The system operates on video inputs, detects clothing/accessories, matches them 
   ]
 }
 
+## 📁 Prerequisites
+
+Ensure the following files and folders are ready by cloning the repository:
+ubmission/
+├── catalog.csv 
+├── videos/ 
+├── run_pipeline.py 
+├── final_video_outputs.json
+├── requirements.txt 
+
+---
+
+## 🐍 Step 1: Setup Virtual Environment
+
+python -m venv venv
+source venv/bin/activate      # Linux/macOS
+venv\\Scripts\\activate         # Windows
+
+📦 Step 2: Install Dependencies
+pip install -r requirements.txt
+
+🎥 Step 3: Prepare Input Files
+Place your short fashion videos in /videos
+
+📚 Step 4: Load the Catalog & Build FAISS Index
+Use the provided CatalogIndexer class to:
+
+Load and embed all catalog images using CLIP
+
+Build a FAISS vector store
+
+Save it for fast similarity search
+
+🚀 Step 5: Run the Pipeline
+Once everything is ready, run the main pipeline
+
 
