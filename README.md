@@ -71,14 +71,14 @@ python -m venv venv
 source venv/bin/activate      # Linux/macOS
 venv\\Scripts\\activate         # Windows
 ```
-📦 Step 2: Install Dependencies
+## Step 2: Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-🎥 Step 3: Prepare Input Files
+## Step 3: Prepare Input Files
 Place your short fashion videos in /videos
 
-📚 Step 4: Load the Catalog & Build FAISS Index
+## Step 4: Load the Catalog & Build FAISS Index
 Use the provided CatalogIndexer class to:
 
 Load and embed all catalog images using CLIP
@@ -87,7 +87,7 @@ Build a FAISS vector store
 
 Save it for fast similarity search
 
-🚀 Step 5: Run the Pipeline
-Once everything is ready, run the main pipeline
+## Step 5: Run the Pipeline
+Once everything is ready, run the main pipeline.py file
 
 
