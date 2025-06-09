@@ -56,13 +56,14 @@ The system operates on video inputs, detects clothing/accessories, matches them 
 ## Prerequisites
 
 Ensure the following files and folders are ready by cloning the repository:
+```
 submission/
 ├── catalog.csv 
 ├── videos/ 
 ├── run_pipeline.py 
 ├── final_video_outputs.json
 ├── requirements.txt 
-
+```
 ---
 
 ## Step 1: Setup Virtual Environment
