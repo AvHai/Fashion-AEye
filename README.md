@@ -1,7 +1,6 @@
 # Fashion-AEye
 Shopping for Clothes and Accessories reimagined using CLIP image embeddings and NLP Vibe Engine
 
-# Flickd AI Hackathon Submission  
 **Smart Tagging & Vibe Classification Engine**
 
 This project presents a functional backend system that can intelligently process short fashion videos ("Reels") and generate structured data about the fashion items present and the overall aesthetic or "vibe" of the content.
@@ -53,18 +52,7 @@ The system operates on video inputs, detects clothing/accessories, matches them 
   ]
 }
 ```
-## Prerequisites
 
-Ensure the following files and folders are ready by cloning the repository:
-```
-submission/
-├── catalog.csv 
-├── videos/ 
-├── run_pipeline.py 
-├── final_video_outputs.json
-├── requirements.txt 
-```
----
 
 ## Step 1: Setup Virtual Environment
 ```bash
